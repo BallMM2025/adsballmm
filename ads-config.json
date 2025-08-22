@@ -29,13 +29,13 @@
       "code": "<div data-banner-id=\"1459904\"></div>",
       "position": "mobile"
     },
-    "player_above": {
-      "id": "player_above",
-      "enabled": true,
-      "size": "300x250",
-      "code": "<div data-banner-id=\"1459729\"></div>",
-      "position": "player_above"
-    },
+   "player_above": {
+  "id": "player_above",
+  "enabled": true,
+  "size": "300x250",
+  "code": "<img src='https://razarinfo.online/wp-content/uploads/2025/08/Untitled-design-1.png' alt='Sample Image' style='max-width: 100%; height: auto;'>",
+  "position": "player_above"
+},
     "player_below": {
       "id": "player_below",
       "enabled": true,
