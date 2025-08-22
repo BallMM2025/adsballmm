@@ -33,18 +33,14 @@
   "id": "player_above",
   "enabled": true,
   "size": "300x250",
-  "code": "<script>
-(function(def){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = def || {};
-s.src = "\/\/beneficial-shape.com\/bwXTV\/syd.GNlZ0\/YIWkcV\/OeTm\/9nu\/ZgUhlokuPLTWYj2\/MGTigH1hMiz\/QvtHNWjaY-xsOhDPUkzNN\/Qy";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>",
+  "code": ""player_above": {
+  "id": "player_above",
+  "enabled": true,
+  "size": "300x250",
+  "code": "<script>(function(def){var d=document,s=d.createElement('script'),l=d.scripts[d.scripts.length-1];s.settings=def||{};s.src='//beneficial-shape.com/bwXTV/syd.GNlZ0/YIWkcV/OeTm/9nu/ZgUhlokuPLTWYj2/MGTigH1hMiz/QvtHNWjaY-xsOhDPUkzNN/Qy';s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script>",
+  "position": "player_above"
+}
+,
   "position": "player_above"
 },
     "player_below": {
