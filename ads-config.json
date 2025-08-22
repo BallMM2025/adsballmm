@@ -48,6 +48,6 @@
     "refresh_interval": 300,
     "mobile_optimized": true,
     "lazy_loading": true,
-    "remote_url": "https://raw.githubusercontent.com/rootxsu/ballmmadsremote/refs/heads/main/ads-config.json"
+    "remote_url": "https://raw.githubusercontent.com/BallMM2025/adsballmm/refs/heads/main/ads-config.json"
   }
 }
