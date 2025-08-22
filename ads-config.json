@@ -1,0 +1,53 @@
+{
+  "ads_enabled": true,
+  "ads_slots": {
+    "header_banner": {
+      "id": "header_banner",
+      "enabled": true,
+      "size": "300x250",
+      "code": "<div data-banner-id=\"1459729\"></div>",
+      "position": "header"
+    },
+    "sidebar_banner": {
+      "id": "sidebar_banner",
+      "enabled": true,
+      "size": "300x600",
+      "code": "<div data-banner-id=\"1459904\"></div>",
+      "position": "sidebar"
+    },
+    "in_content": {
+      "id": "in_content",
+      "enabled": true,
+      "size": "728x90",
+      "code": "<div data-banner-id=\"1459904\"></div>",
+      "position": "content"
+    },
+    "mobile_banner": {
+      "id": "mobile_banner",
+      "enabled": true,
+      "size": "320x50",
+      "code": "<div data-banner-id=\"1459904\"></div>",
+      "position": "mobile"
+    },
+    "player_above": {
+      "id": "player_above",
+      "enabled": true,
+      "size": "300x250",
+      "code": "<div data-banner-id=\"1459729\"></div>",
+      "position": "player_above"
+    },
+    "player_below": {
+      "id": "player_below",
+      "enabled": true,
+      "size": "728x90",
+      "code": "<div data-banner-id=\"1459904\"></div>",
+      "position": "player_below"
+    }
+  },
+  "ads_settings": {
+    "refresh_interval": 300,
+    "mobile_optimized": true,
+    "lazy_loading": true,
+    "remote_url": "https://raw.githubusercontent.com/rootxsu/ballmmadsremote/refs/heads/main/ads-config.json"
+  }
+}
