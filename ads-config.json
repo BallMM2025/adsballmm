@@ -3,7 +3,7 @@
   "ads_slots": {
     "header_banner": {
       "id": "header_banner",
-      "enabled": true,
+      "enabled": false,
       "size": "300x250",
       "code": "<div data-banner-id=\"1459729\"></div>",
       "position": "header"
